@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTEzYzQ4MDczMDk3Yzk3ZDBkNzE0NWQyYmNlNThjNTQ5ZDEzOTU1ZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/1lvotGQwhzi6O0gQtV/giphy.gif" width="100"/>
+</div>
 <!--
 **Dark21Fox/Dark21Fox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
