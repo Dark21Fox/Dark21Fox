@@ -1,6 +1,6 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTEzYzQ4MDczMDk3Yzk3ZDBkNzE0NWQyYmNlNThjNTQ5ZDEzOTU1ZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/1lvotGQwhzi6O0gQtV/giphy.gif" width="100"/>
-</div>
+<h1 align="center">Dark21Fox</h1>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=6699FF&center=true&multiline=true&repeat=false&width=600&height=100&lines=Interested+in+information+security%2C;programming++and+artificial+intelligence)](https://git.io/typing-svg)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dark21Fox&theme=tokyonight)
 
