@@ -1,12 +1,13 @@
-<h1 align="center">Dark21Fox</h1>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=6699FF&center=true&multiline=true&repeat=false&width=600&height=100&lines=Interested+in+information+security%2C;programming++and+artificial+intelligence)](https://git.io/typing-svg)
+<div align="center">
+<h1>𝐃𝐚𝐫𝐤𝟐𝟏𝐅𝐨𝐱</h1>
+ 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous+&duration=3500&pause=1000&color=6699FF&center=true&multiline=true&repeat=false&width=500&height=60&lines=Information+security;programming++and+artificial+intelligence" alt="Typing SVG" /></a>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dark21Fox&theme=tokyonight)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dark21Fox&theme=tokyonight)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dark21Fox&theme=tokyonight)
-
+</div>
 
 <!--
 Here are some ideas to get you started:
