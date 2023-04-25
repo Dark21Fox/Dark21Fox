@@ -7,6 +7,8 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dark21Fox&theme=tokyonight)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dark21Fox&theme=tokyonight)
+ 
+ ![](https://komarev.com/ghpvc/?username=Dark21Fox)
 </div>
 
 <!--
